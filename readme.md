@@ -3,4 +3,4 @@ figuring it out
 
 new projects comming soon 
 lets git add .
-then git push -m"2nd commit "
+then git commi -m"2nd commit "
